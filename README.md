@@ -1,4 +1,15 @@
-React Search App
+## React Search App
+
+## Details:
+
+- Used React Router
+- Promise 
+- Swapi API
+- Used CSS API -> tachyons
+
+## Please login with below details:
+Username: Luke Skywalker                                                                                                 
+Password: 19BBY
 
 ![Home Screen](https://raw.githubusercontent.com/NeeteshKeshari/react-search-app/master/home-screen.png)
 
@@ -6,10 +17,4 @@ React Search App
 
 ![Search Screen](https://raw.githubusercontent.com/NeeteshKeshari/react-search-app/master/search-screen.PNG)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-Please login with below details:
-Username: Luke Skywalker
-Password: 19BBY
