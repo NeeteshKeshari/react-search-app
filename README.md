@@ -4,7 +4,7 @@ React Search App
 
 ![Login Screen](https://raw.githubusercontent.com/NeeteshKeshari/react-search-app/master/login-screen.png)
 
-![Search Screen](https://raw.githubusercontent.com/NeeteshKeshari/react-search-app/master/search-screen.png)
+![Search Screen](https://raw.githubusercontent.com/NeeteshKeshari/react-search-app/master/search-screen.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
